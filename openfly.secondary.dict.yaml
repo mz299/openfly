@@ -413,9 +413,8 @@ use_preset_vocabulary: false
 晦涩	hvse
 会晤	hvwu
 回信	hvxb
-呼之欲出	hvy
 话中有话	hvyh
-回忆	hvyi
+呼之欲出	hvyi
 花无百日红	hwbh
 毫无用处	hwyi
 毫无怨言	hwyy
@@ -1142,6 +1141,7 @@ use_preset_vocabulary: false
 指定	vd
 照单全收	vdqu
 掷地有声	vdyu
+遮	ve
 蜇	vef
 周而复始	vefu
 征服	vf
@@ -1254,7 +1254,7 @@ use_preset_vocabulary: false
 无法忘怀	wfwh
 网管	whgr
 为虎作伥	whzi
-万劫不复	wjb
+万劫不复	wjbf
 无坚不摧	wjbc
 物极必反	wjbf
 无精打采	wjdc
@@ -1288,6 +1288,7 @@ use_preset_vocabulary: false
 握手言和	wuyh
 无疑	wuyi
 巫山云雨	wuyy
+未知	wv
 瓮中之鳖	wvvb
 葳	wwc
 嵬	wweg
@@ -1438,6 +1439,7 @@ use_preset_vocabulary: false
 心有余悸	xyyj
 心有余而力不足	xyyz
 选择	xz
+又	y
 衙	yai
 雅致	yavi
 讶	yay
